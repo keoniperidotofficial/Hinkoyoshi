@@ -26,6 +26,14 @@ Hinkoyoshi just needs Go 1.20 and above. thats it.
 
 ---
 
+🤍 what about the logs?
+
+feline frontiers or Hinkoyoshi will write logs in your system at C:\Users\(username)\Roaming\FelineFrontiers\DestinyJoke\logs.txt
+
+yes, no joke. the folder is named DestinyJoke cuz Feline Frontiers is based off of the Destiny franchise!
+
+---
+
 👾 is this the end of the readme?
 
 yes, yes it is. if you need any help or found a bug, contact me at discord - insanityforeternity!
