@@ -1,3 +1,11 @@
+<p align="center">
+<img alt="GitHub Repo Size" src="https://img.shields.io/gitea/repo-size/keoni/Hinkoyoshi">
+<img alt="GitHub Release" src="https://img.shields.io/gitea/v/release/keoni/Hinkoyoshi?color=violet">
+<img alt="GitHub Last Commit" src="https://img.shields.io/gitea/last-commit/keoni/Hinkoyoshi/main">
+</p>
+
+![Hinkoyoshi Banner!](Hinkoyoshi-Repo/Extras/Untitled20_20260619145358.png)
+
 # hello! this is the alpha server for Feline Frontiers Alpha builds.
 # if you’re here, you’re either curious, lost, or extremely silly. all three are valid.
 
