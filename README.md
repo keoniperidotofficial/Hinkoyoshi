@@ -68,7 +68,7 @@ just Go.
 
 Hinkoyoshi writes logs to:
 
-C:\Users\(username)\Roaming\FelineFrontiers\DestinyJoke\logs.txt
+C:\Users\your.user\Roaming\FelineFrontiers\DestinyJoke\logs.txt
 
 
 yes, the folder is called DestinyJoke.
