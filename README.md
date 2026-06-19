@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GitHub Repo Size" src="https://img.shields.io/gitea/repo-size/keoni/Hinkoyoshi">
+<img alt="GitHub Repo Size" src="https://img.shields.io/gitea/repo-size/keoni/Hinkoyoshi/main">
 <img alt="GitHub Release" src="https://img.shields.io/gitea/v/release/keoni/Hinkoyoshi?color=violet">
 <img alt="GitHub Last Commit" src="https://img.shields.io/gitea/last-commit/keoni/Hinkoyoshi/main">
 </p>
